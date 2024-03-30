@@ -1,0 +1,128 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/zhengyuyu/subtitles/main/
+    subtitles:
+      - season: 1
+        items:
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2001%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 1
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2002%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 2
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2003%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 3
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2004%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 4
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2005%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 5
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2006%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 6
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2007%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 7
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2008%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 8
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2009%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 9
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2010%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 10
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2011%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 11
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2012%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 12
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2013%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 13
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2014%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 14
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2015%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 15
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2016%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 16
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2017%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 17
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2018%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 18
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2019%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 19
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2020%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 20
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2021%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 21
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2022%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 22
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2023%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 23
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2024%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 24
+          - path: attack%20on%20titan%20123/%5BMoozzi2%5D%20Shingeki%20No%20Kyojin%20-%2025%20END%20(BD%201920x1080%20x.264%20Flac).chs.srt
+            episode: 25
+      - season: 2
+        items:
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC26%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 1
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC27%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 2
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC28%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 3
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC29%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 4
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC30%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 5
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC31%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 6
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC32%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 7
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC33%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 8
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC34%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 9
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC35%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 10
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC36%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 11
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC37%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
+            episode: 12
+      - season: 2
+        items:
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC38%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 1
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC39%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 2
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC40%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 3
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC41%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 4
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC42%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 5
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC43%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 6
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC44%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 7
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC45%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 8
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC46%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 9
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC47%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 10
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC48%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 11
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC49%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 12
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC50%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 13
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC51%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 14
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC52%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 15
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC53%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 16
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC54%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 17
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC55%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 18
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC56%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 19
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC57%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 20
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC58%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 21
+          - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC59%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
+            episode: 22
+
