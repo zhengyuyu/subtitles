@@ -1,0 +1,57 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/zhengyuyu/subtitles/main/
+    subtitles:
+      - season: 1
+        items:
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2001%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 1
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2002%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 2
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2003%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 3
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2004%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 4
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2005%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 5
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2006%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 6
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2007%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 7
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2008%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 8
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2009%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 9
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2010%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 10
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2011%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 11
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2012%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 12
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2013%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 13
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2014%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 14
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2015%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 15
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2016%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 16
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2017%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 17
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2018%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 18
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2019%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 19
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2020%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 20
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2021%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 21
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2022%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 22
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2023%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 23
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2024%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 24
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2025%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 25
+          - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2026%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
+            episode: 26
