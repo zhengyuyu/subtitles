@@ -1,5 +1,5 @@
 msubtitles:
-  - source:https://raw.githubusercontent.com/zhengyuyu/subtitles/main/
+  - source: https://raw.githubusercontent.com/zhengyuyu/subtitles/main/
     subtitles:
       - season: 1
         items:
@@ -55,7 +55,7 @@ msubtitles:
             episode: 25
           - path: jojo_s1/%5BKamigami%5D%20JoJos%20Bizarre%20Adventure%20-%2026%20%5BBD%20x264%2019201080%20FLAC%5D.ChsJap.srt
             episode: 26
- - season: 2
+      - season: 2
         items:
           - path: jojo%20s2%20srt/01.srt
             episode: 1
@@ -153,7 +153,7 @@ msubtitles:
             episode: 47
           - path: jojo%20s2%20srt/48.srt
             episode: 48
- - season: 3
+      - season: 3
         items:
           - path: jojo%20s3%20srt/01.srt
             episode: 1
