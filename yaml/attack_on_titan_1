@@ -79,7 +79,7 @@ msubtitles:
             episode: 11
           - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%202%20%E7%AC%AC37%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).%E7%AE%80%E4%BD%93.srt
             episode: 12
-      - season: 2
+      - season: 3
         items:
           - path: attack%20on%20titan%20123/%5BSnow-Raws%5D%20%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA%20Season%203%20%E7%AC%AC38%E8%A9%B1%20(BD%201920x1080%20HEVC-YUV420P10%20FLAC).chs.srt
             episode: 1
